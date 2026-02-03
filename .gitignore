@@ -1,0 +1,12 @@
+# Ignore API keys and environment variables
+.env
+keys.txt
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore virtual environments
+venv/
+env/
